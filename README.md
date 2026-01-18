@@ -11,8 +11,8 @@ Job scams are becoming increasingly common, so I built an end-to-end ML applicat
 🛠 Tech Stack:
 Python | Scikit-learn | Streamlit | Machine Learning
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/job-fraud-detection-ml
-🌐 Live App: https://YOUR-STREAMLIT-LINK
+🔗 GitHub: https://github.com/meghaaa111/job-fraud-detection-ml
+🌐 Live App: https://fxtkysja78dl3pmaafdoqj.streamlit.app/
 
 This project helped me understand real-world ML limitations, risk-based predictions, and explainable AI.
 
